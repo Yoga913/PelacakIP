@@ -1,6 +1,6 @@
-# IP-MAX-V2
-IP investigation tool to get geolocation, ISP and ASN of an IP address among other useful information. Can be used for OSINT investigations.
-![IM-MAX-pic](https://user-images.githubusercontent.com/81593002/181406359-f34ca6e7-f076-4d6a-ade4-7f3ddfe826ae.png)
+# PelacakIP
+aplikasi pelacak IP menjadi relevan karena dapat memberikan informasi detail terkait lokasi fisik suatu alamat IP.
+![IM-MAX-pic]( )
 
 CURRENTLY STILL UNDER DEVELOPMENT.
 To use the beta version you will need maven and latest JDK installed.
