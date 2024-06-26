@@ -202,7 +202,7 @@ public class guiMain extends JFrame{
 }
 
 /* 
- * Berikut adalah penjelasan dari setiap bagian kode program dan alur pada program dalam bentuk komentar bahasa Indonesia:
+ * Berikut adalah penjelasan dari setiap bagian kode program dan alur pada program:
 
 ```java
 // Import library yang dibutuhkan
